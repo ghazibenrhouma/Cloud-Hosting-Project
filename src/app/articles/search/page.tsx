@@ -14,4 +14,4 @@ const SearchArticlePage = ({ searchParams }: SearchArticlePageProps) => {
   )
 }
 
-export default SearchArticlePage
+export default SearchArticlePage 
